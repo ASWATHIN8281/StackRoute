@@ -1,0 +1,19 @@
+
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(±¨
+;
+java:S1659" Declare "id" on a separate line.(ò¦Ëµþÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(éš‡K
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(“‹Ðx
+j
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ç¦ú¡úÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÇÆ±š
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…ß©å
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¯öÌãüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ß…Ÿüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éùÚÉ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ãí¨Ù
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ã¦Ó‚üÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.( øÉ³üÿÿÿÿ

@@ -1,0 +1,20 @@
+
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÓàÊıÿÿÿÿ
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š° „ûÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(Ä«—Ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ´Ã†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÂğ‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©Ìº‰ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïíõšûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıæÜì
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Üƒ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(äÙİ%
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(‹œâèûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(£³±ç
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¸¨¡ß
+V	java:S125m"<This block of commented-out lines of code should be removed.(ƒÏš»úÿÿÿÿ
+I
+java:S1481G".Remove this unused "com_count" local variable.(ĞÓàÊıÿÿÿÿ
+I
+java:S1481H".Remove this unused "mov_count" local variable.(Š° „ûÿÿÿÿ
